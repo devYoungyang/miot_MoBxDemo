@@ -1,0 +1,11 @@
+{
+    "name": "project-com-xiaomi-mobxDemo",
+    "version": "1.0.11",
+    "scripts": {
+        "start": "node ../../bin/runProject.js"
+    },
+    "dependencies": {
+        "mobx": "^3.4.1",
+        "mobx-react": "^4.3.5"
+    }
+}
